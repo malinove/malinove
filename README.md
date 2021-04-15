@@ -1,0 +1,2 @@
+- 🤗 Hi, I’m Elena 
+- 📖 I’m interested in front end coding 
